@@ -1,7 +1,6 @@
 .item{
     background-color: azure;
     width: 700px;
-    height: 700px;
     text-align: center;
     align-items: center;
     font-weight: bold;
@@ -13,4 +12,10 @@
 #image{
     width: 700px;
     align-items: center;
+}
+h2{
+    color: red;
+}
+.programming-hero{
+    width: 700px;
 }
